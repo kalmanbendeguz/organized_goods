@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="8dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="8dp">
+
+    <ImageView
+        android:id="@+id/IngredientIconImageView"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="0dp"
+        android:padding="8dp"
+        tools:src="@drawable/ingredient_icon"
+        android:contentDescription="@string/ingredient_icon_content_description" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:paddingTop="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/IngredientNameTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:textColor="@color/black"
+            tools:text="Apple" />
+
+        <TextView
+            android:id="@+id/IngredientQuantityTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:textColor="@color/black"
+            tools:text="5 db" />
+    </LinearLayout>
+
+
+</LinearLayout>

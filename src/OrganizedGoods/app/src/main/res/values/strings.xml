@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Organized goods</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="bought">Bought</string>
+    <string name="ingredient_name_hint">Name...</string>
+    <string name="ingredient_quantity_hint">Quantity...</string>
+    <string name="ingredient_unit_hint">Unit...</string>
+    <string name="add_new_ingredient">Add new</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="recipe_name">Recipe name</string>
+    <string name="add_new_recipe">Add new recipe...</string>
+    <string name="ingredient_icon_content_description">Ingredient icon</string>
+    <string name="recipe_registration_image_button_content_description">Recipe registration image button</string>
+    <string name="navbar_text">Mobil- és webes szoftverek házi feladat</string>
+    <string name="email_text">kalmanbendeguz@gmail.com</string>
+    <string name="recipe_edit_button">Recipe Edit Button</string>
+    <string name="recipe_remove_button">Recipe remove button</string>
+    <string name="recipes_text">Recipes</string>
+    <string name="ingredients_text">Ingredients</string>
+    <string name="recipe_icon">Recipe Icon</string>
+</resources>
