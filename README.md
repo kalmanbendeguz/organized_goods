@@ -3,6 +3,7 @@ An advanced shopping list app which summarizes different recipes' identical ingr
 
 ### Compiling, running
 Minimum API level: 22 (Android 5.1)
+
 The src/OrganizedGoods folder is an Android Studio project folder.
 
 ### Troubleshooting
